@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Architecture-Model--agnostic-9875d7?style=for-the-badge" alt="Model agnostic architecture" />
     <img src="https://img.shields.io/badge/License-MIT-f0b44d?style=for-the-badge" alt="MIT License" />
   </p>
-  <p><a href="https://github.com/voyager67/The-Sharks/archive/refs/heads/main.zip"><strong>↓ Download the complete repository</strong></a> &nbsp;·&nbsp; <a href=".agents/skills/">Browse all six skills</a> &nbsp;·&nbsp; <a href=".agents/skills/the-sharks/SKILL.md">Master orchestrator</a></p>
+  <p><a href=".agents/skills/">Browse all six skills</a> &nbsp;·&nbsp; <a href=".agents/skills/the-sharks/SKILL.md">Master orchestrator</a></p>
 </div>
 
 ---
