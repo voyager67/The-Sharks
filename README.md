@@ -26,12 +26,12 @@ Five specialist AI agents. One orchestrator. A startup reality-check panel that 
 
 ## Get started
 
-1. Download the repository package: [The-Sharks-v1.1.0.zip](releases/The-Sharks-v1.1.0.zip).
+1. Download [The-Sharks-v1.1.0.zip](The-Sharks-v1.1.0.zip) from the repository root.
 2. Extract it.
 3. Open the extracted `the-sharks` directory as your project.
-4. Follow [QUICKSTART.md](https://github.com/voyager67/The-Sharks/blob/main/QUICKSTART.md).
+4. Follow [QUICKSTART.md](QUICKSTART.md).
 
-For a quick test with any chat-based AI, start with [PROMPT.md](https://github.com/voyager67/The-Sharks/blob/main/PROMPT.md).
+For a quick test with any chat-based AI, start with [PROMPT.md](PROMPT.md).
 
 ## Modes
 
