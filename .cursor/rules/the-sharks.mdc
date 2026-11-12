@@ -1,0 +1,19 @@
+---
+description: Use The Sharks five-agent startup evaluation framework when reviewing a startup, business model, pitch, pricing, go-to-market plan, unit economics, competition or founder execution.
+alwaysApply: false
+---
+
+# The Sharks — Cursor rule
+
+When the user asks for a startup reality check, apply the six-skill framework in `.agents/skills/`:
+
+- MINT: revenue, payer, pricing and willingness to pay.
+- MAGNET: ideal customers, acquisition, conversion and retention.
+- LEDGER: unit economics, margins, burn and break-even.
+- RAZOR: competitors, substitutes, switching and defensibility.
+- FORGE: founder-market fit, team capability and execution.
+- THE SHARKS: orchestration, verdict synthesis and ranked Fix List.
+
+If true independent subagents are available, delegate each role. Otherwise run the five roles separately and disclose that it is a simulated panel, not five independent model runs.
+
+Label inputs FACT, FOUNDER ESTIMATE, ASSUMPTION or UNKNOWN. Ask one sharp question per Shark before final verdicts. Do not invent data. End with a Deal Meter, strongest and weakest evidence, KILL SHOT and measurable experiments.
