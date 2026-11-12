@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/readme/hero-the-sharks.jpg" alt="The Sharks — five specialist shark agents at the startup reality-check table" width="100%" />
+  <img src="assets/readme/hero-the-sharks.svg" alt="The Sharks — five specialist shark agents at the startup reality-check table" width="100%" />
   <h1>THE SHARKS</h1>
   <h3>The startup reality-check engine.</h3>
   <p><strong>Your idea doesn't need applause. It needs five independent lines of attack.</strong></p>
@@ -28,7 +28,7 @@ Built for founders, startup teams, builders, accelerators and investors who woul
 ## Meet the five specialists
 
 <div align="center">
-  <img src="assets/readme/agents-lineup.jpg" alt="Five distinct shark agent portraits: MINT, MAGNET, LEDGER, RAZOR and FORGE" width="100%" />
+  <img src="assets/readme/agents-lineup.svg" alt="Five distinct shark agent portraits: MINT, MAGNET, LEDGER, RAZOR and FORGE" width="100%" />
 </div>
 
 | Specialist | What it pressure-tests | The question it will not let go |
